@@ -6,7 +6,7 @@ REST-api для базовой версии проекта [Yatube](https://gith
 
 ### Технологии
 
-Python 3.7, Django 2.2.6, Django REST framework 3.12.4, Djoser
+Python 3.7, Django 2.2.6, Django REST framework 3.12.4, Simple JWT
 
 ### Установка:
 Клонировать репозиторий и перейти в него в командной строке:
