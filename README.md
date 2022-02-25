@@ -1,14 +1,15 @@
-### YaTube-api
+# YaTube-api
 
-REST-api для базовой версии проекта [Yatube](https://github.com/yankovskaya-ktr/hw05_final)
+REST-api для базовой версии проекта [Yatube](https://github.com/yankovskaya-ktr/Yatube)
 
-После запуска проекта спецификация api доступна по адресу:  localhost/redoc/
+После запуска проекта документация доступна по адресу: http://localhost/redoc/
 
-### Технологии
+### Технологии:
 
 Python 3.7, Django 2.2.6, Django REST framework 3.12.4, Simple JWT
 
-### Установка:
+### Локальный запуск проекта:
+
 Клонировать репозиторий и перейти в него в командной строке:
 
 ```
